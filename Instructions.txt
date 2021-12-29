@@ -1,0 +1,15 @@
+How to maximize the window in Tkinter ?
+	window.state('zoomed')
+
+How to add Menus in Tkinter ?
+
+How to add Title in Tkinter ?
+	win.title("Visual Studio Code")
+
+How to Add App Icon in Tkinter ?
+	win.iconbitmap("myIcon.ico")
+
+How to Quit the Application 
+
+How to export a window
+	pyinstaller --onefile --windowed filename
