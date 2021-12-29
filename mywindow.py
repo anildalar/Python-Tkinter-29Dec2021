@@ -9,9 +9,7 @@ win.state('zoomed')
 try:
   win.iconbitmap('app.ico')
 except:
-  print("")
-
-
+    pass
 
 menubar = Menu() # Menu is a Class of Tkinter Library
 file = Menu(menubar, tearoff = False)
